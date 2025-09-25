@@ -19,9 +19,7 @@ function App() {
 
   return (
     <section>
-      <h1>
-        Dragonball API
-      </h1>
+      <h1>Dragonball API</h1>
       {isLoading ? (
         <p>Loading...</p>
       ) : (
